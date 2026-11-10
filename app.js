@@ -22,3 +22,5 @@ app.get('/users', (req, res) => {
 
 // Exporta la app para server.js y las pruebas
 module.exports = app;
+}
+
